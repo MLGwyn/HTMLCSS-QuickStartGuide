@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  color: white;
+}
+h1 {
+  color: gray;
+  text-align: center;
+}
+body {
+  color: blue;
+}
+.callout {
+  color: gray;
+  font-style: italic;
+  margin-left: 20px;
+}
+#pageTitle {
+  font-weight: bold;
+}
+.bold-red {
+  font-weight: bold;
+  color: red;
+}
+p {
+  width: 200px;
+}
+/* p {
+  width: 80%;
+} */
